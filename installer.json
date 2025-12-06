@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "release_zip_url": "https://github.com/syringeefy/xenith/releases/download/xenith/v1.0.2.zip",
-  "sha256": "ca891f229a2964eadc64f09b4e730a2cdc4a2074703a44c60fb5b9de5f9029ed",
+  "sha256": "B70B172E681E0943781AFFCFC29CF68731A5B204AB75E6962A0722AC9A3E5C71",
   "files": [
     {"name": "libcurl.dll"},
     {"name": "VMProtectSDK64.dll"},
