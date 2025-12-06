@@ -3,9 +3,10 @@
   "release_zip_url": "https://github.com/syringeefy/xenith/releases/download/xenith/v1.0.2.zip",
   "sha256": "ca891f229a2964eadc64f09b4e730a2cdc4a2074703a44c60fb5b9de5f9029ed",
   "files": [
-
+    {"name": "libcurl.dll"},
+    {"name": "VMProtectSDK64.dll"},
     {"name": "xenith.exe"},
-   
+    {"name": "zlib1.dll"}
   ],
   "prerequisites": {
     "windows_version_min": "10.0.19041",
